@@ -16,7 +16,7 @@ Responsive web interface for easy comparison
 
 🛠️ Tech Stack
 
-Backend: Python
+Backend: Java, Spring Boot
 
 Web Scraping: Selenium
 
